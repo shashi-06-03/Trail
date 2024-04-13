@@ -1,1 +1,9 @@
 Hello World....
+
+
+$ git init
+$ git add filename.ex
+$ git commit -m "any message"
+$ git config --global user.email mailid
+$ git config -m "any message"
+$ git status 
